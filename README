@@ -1,0 +1,15 @@
+Moodsic is an iPhone app that connects with the iTunes RSS API to provide 
+the top songs on iTunes. It works on iPhones 4S/5/5S/6/6S/6+/6S+
+It also allows users to select specific songs
+to give them previews, and the option to go iTunes page for more information.
+
+The name "Moodsic" was originally created, when I had the idea to recommend 
+specific songs, based on the user's mood. However, I soon realized how it 
+would be unlikely for me to implement given the limited time.
+
+There are a number of other features (in addition to mood-generating), such as
+network/error handling, extensive testing, etc. that I would have liked to 
+implement, but that will be saved for later time.
+
+Note: opening the iTunes URL doesn't work in the simulator, but works with
+actual devices.
